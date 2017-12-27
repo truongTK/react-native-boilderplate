@@ -1,0 +1,3 @@
+rootProject.name = 'Intralead'
+
+include ':app'
